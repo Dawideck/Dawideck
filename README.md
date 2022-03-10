@@ -13,3 +13,5 @@ I'm trying my skills as a software tester. Although, I would like to pursue a ca
 ! Getting a kick out of playing with *RaspberryPi* computers with a bunch of different sensors. 
 
 I'm also a father-to-be and would really love my kid to feel the joy of compiling your own code :)
+
+FunFact#139487: In the olden days I took a liking to ActionScript for Flash....... aaaaaand it's gone.
