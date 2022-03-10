@@ -2,7 +2,7 @@ Hey!
 
 My name's Dawid. 
 
-I've studied IT n-teen years ago, but resigned and went to study my passion - music.
+I've studied IT n-teen years ago, but resigned and went to study what I thought was my passion - music.
 
 Years have passed and it seems that an old polish proverb's wisdom dawned upon me.
 **"Old love does not rust."**
